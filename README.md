@@ -16,7 +16,7 @@ Example usage of ThingSpeak's Python library:
     read_api_key = '<insert read key here>'
     if __name__ == "__main__":
         wr_channel = thingspeak.Channel(id=channel_id, api_key=write_api_key)
-        wr_channel.update({'field1':88, 'field2':59, 'field3':17})
+        wr_channel.update({'field1':<insert value here>, 'field2':<insert value here>, 'field3':<insert value here>})
 
 If your script is having trouble importing the ThingSpeak module, check default python version:
 
