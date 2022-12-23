@@ -4,8 +4,8 @@ A repository for the WaterTalk Clinic
 Example usage of ThingSpeak's Python library:
 
     import thingspeak
-​
-​
+​   
+​   
     channel_id = 1966115
     write_api_key = 'CB6PC3SMZRE3CMBH'
     read_api_key = '0QQ9K865AMO5SJXJ'
