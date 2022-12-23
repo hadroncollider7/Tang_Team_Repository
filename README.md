@@ -1,6 +1,13 @@
 # Tang_Team_Repository
 A repository for the WaterTalk Clinic 
 
+## ThingSpeak Library for Python
+ThingSpeak provides a library for use with Python. To install the library, use:
+
+    $ pip install thingspeak
+
+For detailed instructions on using the ThingSpeak library, [click here](https://thingspeak.readthedocs.io/en/latest/install.html).
+
 Example usage of ThingSpeak's Python library:
 
     import thingspeak
